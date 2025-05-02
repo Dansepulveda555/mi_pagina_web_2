@@ -7,6 +7,14 @@ body {
     color: gainsboro;
 }
 
+body {
+    background-image: url('./img/fondo.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+background-color: rgb(3, 3, 55);
+color: gainsboro;
+}
+
 h1,
 h2 {
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
